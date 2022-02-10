@@ -1,2 +1,3 @@
 # fizzbuzz
-fizzbuzz in C only allowed to use write function
+fizzbuzz in C
+only allowed to use write function
