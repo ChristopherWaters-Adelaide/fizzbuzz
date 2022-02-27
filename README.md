@@ -1,4 +1,2 @@
-# fizzbuzz
-fizzbuzz in C
+# fizzbuzz in C
 only allowed to use write function
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
